@@ -1,0 +1,11 @@
+
+public class PrintExperiments {
+
+	public static void main(String[] args) {
+		System.out.print("hi");
+        System.out.print("there");
+        System.out.print("my");
+        System.out.print("name");
+	}
+
+}

@@ -1,0 +1,19 @@
+
+public class Problem1 {
+
+	public static void main(String[] args) {
+		System.out.println("* * * * * * * *");
+		System.out.println("*             *");
+		System.out.println("*             *");
+		System.out.println("*             *");
+		System.out.println("*             *");
+		System.out.println("* * * * * * * *");
+		
+		// *****************************************************
+		
+		System.out.println("* * * * * * * *\n");
+	}
+	public static void hey() {
+		System.out.println("heyy");
+	}
+}
